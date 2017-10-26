@@ -1,3 +1,5 @@
 This is the first file that is created for Assignment 2 of Mastering Git Hub Course
 
 Added this line to simulate changes.
+
+Modified as part of Module 3 Assignment.
