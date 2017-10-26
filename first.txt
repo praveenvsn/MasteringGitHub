@@ -3,3 +3,5 @@ This is the first file that is created for Assignment 2 of Mastering Git Hub Cou
 Added this line to simulate changes.
 
 Modified as part of Module 3 Assignment.
+
+Simulating a merge with a remote change done on the repository. Change done here by User B.
