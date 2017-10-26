@@ -7,3 +7,5 @@ Modified as part of Module 3 Assignment.
 Simulating a merge with a remote change done on the repository. Change done here by User B.
 
 Simulating a merge with a remote change done on the repository. Change done here by User A.
+
+Question 4: Simulating a merge with a remote change done on the repository using git fetch and then merge. Change done here by User B.
