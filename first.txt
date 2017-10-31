@@ -11,3 +11,5 @@ Simulating a merge with a remote change done on the repository. Change done here
 Question 4: Simulating a merge with a remote change done on the repository using git fetch and then merge. Change done here by User B.
 
 Question 4: Simulating a merge with a remote change done on the repository using git fetch and then merge. Change done here by User A.
+
+Stash and merge example.
